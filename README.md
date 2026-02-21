@@ -26,8 +26,13 @@ The database file used is `sql.db`.
 * `dept_id` – Primary key
 * `rollno` – Foreign key referencing student.rollno
 * `dept_name` – Department name
+<img width="799" height="230" alt="Screenshot 2026-02-21 at 4 12 35 PM" src="https://github.com/user-attachments/assets/2debb610-14ba-45c3-af19-d3ba7c83f55d" />
+
+
 
 Relationship: `department.rollno` → `student.rollno`
+<img width="1536" height="1024" alt="ER DIAGRAM" src="https://github.com/user-attachments/assets/e32e83f7-b2e9-4cef-b1cc-e38189a8ad7c" />
+
 
 ---
 
